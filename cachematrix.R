@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## R_Programming, Assigment 2, Altemir Palmede Pedroso
 ## functions do
 
 ## Write a short comment describing this function
