@@ -1,4 +1,4 @@
-## R_Programming, Assigment 2, Altemir Palmede Pedroso
+## R_Programming, Assigment 2, Altemir Palmede Pedroso, sem copia no repositório local
 ## functions do
 
 ## Write a short comment describing this function
